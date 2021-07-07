@@ -12,8 +12,8 @@ React JS, Unity 3D and Blender
 
 # 📫 How to reach me ...
 
-[LinkedIn](https://www.linkedin.com/in/abraham-josu%C3%A9-galv%C3%A1n-torres-135576207/)
-[Facebook](https://www.facebook.com/abrahamJosueGalvanTorres/)
+- [LinkedIn](https://www.linkedin.com/in/abraham-josu%C3%A9-galv%C3%A1n-torres-135576207/)
+- [Facebook](https://www.facebook.com/abrahamJosueGalvanTorres/)
 
 <!---
 ozzyZig1994/ozzyZig1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
