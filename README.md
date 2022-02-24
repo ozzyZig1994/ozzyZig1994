@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Josué Galván ...
 
-I am a systems engineer and fullstack developer with a passion for programming ❤️ with more than three years of experience developing web 💻 and mobile 📱 applications. I love learning new programming languages and development frameworks.
+I am a systems engineer and fullstack developer with a passion for programming ❤️ with more than 4 years of experience developing web 💻 and mobile 📱 applications. I love learning new programming languages and development frameworks.
 
 # 👀 I’m interested in ...
 
-Hard rock 🎸 and playing my favorite songs on my electric guitar and playing 🎮 videogames also develop videogames.
+Hard rock 🎸 and playing my favorite songs on my electric guitar and playing 🎮 videogames also develop videogames and web plattforms.
 
 # 🌱 I’m currently learning ...
 
