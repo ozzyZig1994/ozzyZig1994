@@ -2,9 +2,7 @@
 
 ## ~$ About me
 
-- Software Developer since 2018, Fullstack most of the time
-- I ❤️ play the electric guitar 🎸 in my free time
-- Passionate about videogames and videogame development 🎮
+I am a software engineer with over 4 years’ experience working on complex software development initiatives. I’m passionate about software development and I’m looking forward to getting to work on new projects in the near future. I’m currently employed as Frontend Developer at Cognizant Softvision. I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analysing algorithms, altering code, fixing bugs, brainstorming ideas or integrating new systems. Something that I love about software development is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal. While employed in this role, Together with my team, we have been recognized as one of the best teams for our excellent work with the client we were assigned to. I have been recognized for the great work I have done since I joined the company. In my spare time, I like to play the electric guitar and a good blues. A couple of years ago I played with a rock band and had the opportunity to play in different events inside and outside the city. I love videogames and I also dedicate part of my time to learn videogame development as well as learning new languages, frameworks and techniques to improve my career. Feel free to send me a message if you would like to know more about me. I am always eager to hear from others and expand my network on LinkedIn.
 
 ## ~$ Tech Knowledge
 
